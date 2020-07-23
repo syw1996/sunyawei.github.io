@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yawei Sun"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yawei Sun"
 description              : &description "personal description"
 url                      : https://syw1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,10 +82,9 @@ analytics:
 author:
   name             : "Yawei Sun"
   avatar           : "syw_profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate of CS Harbin Institute of Technology. Master of Research Center for Social Computing and Information Retrieval."
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=HcNGFksAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
