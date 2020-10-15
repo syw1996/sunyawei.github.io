@@ -18,5 +18,5 @@ My research interests lie in **story generation**, **data-to-text generation**, 
 
 *\* indicates equal contribution*
 
-1. Heng Gong\*, **Yawei Sun\***, Xiaocheng Feng, Bing Qin, Wei BI, Xiaojiang Liu, Ting Liu. GPT-based Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching. *COLING 2020, Online Conference.* [[pdf]](./) [[code]](./)
+1. Heng Gong\*, **Yawei Sun\***, Xiaocheng Feng, Bing Qin, Wei BI, Xiaojiang Liu, Ting Liu. GPT-based Few-shot Table-to-Text Generation with Table Structure Reconstruction and Content Matching. *COLING 2020.* [[pdf]](./) [[code]](./)
 2. Xiaocheng Feng, **Yawei Sun**, Bing Qin, Heng Gong, Yibo Sun, Wei BI, Xiaojiang Liu, Ting Liu. Learning to Select Bi-Aspect Information for Document-Scale Text Content Manipulation. *AAAI 2020.* [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6274/6130) [[code]](https://github.com/syw1996/SCIR-TG-Data2text-Bi-Aspect)
