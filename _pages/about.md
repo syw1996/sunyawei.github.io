@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second-year graduate student in the [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/) under the supervision of Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) in the [Department of Computer Science and Technology](http://cs.hit.edu.cn/) of Harbin Institute of Technology, Harbin, China. Before joining SCIR, I received my bachelor degree in the Department of Computer Science and Technology of Harbin Institute of Technology. Here is my [cv](./cv_yaweisun_zh.pdf) and [简历](./cv_yaweisun_zh.pdf).
+I am now a second-year graduate student in the [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/) under the supervision of Prof. [Bing Qin](http://ir.hit.edu.cn/~qinb/) in the [Department of Computer Science and Technology](http://cs.hit.edu.cn/) of Harbin Institute of Technology, Harbin, China. Before joining SCIR, I received my bachelor degree in the Department of Computer Science and Technology of Harbin Institute of Technology. Here is my [cv](./cv_yaweisun_en.pdf) and [简历](./cv_yaweisun_zh.pdf).
 
 My research interests lie in **story generation**, **data-to-text generation**, **pretrained language model**, etc.
 
